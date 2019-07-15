@@ -1,0 +1,16 @@
+{
+    "db": {
+        "name": "db",
+        "connector": "memory"
+    },
+    "logs_api_datasource": {
+        "host": "localhost",
+        "port": 3306,
+        "url": "",
+        "database": "logs_api_db",
+        "password": "12345",
+        "name": "logs_api_datasource",
+        "user": "root",
+        "connector": "mysql"
+    }
+}
